@@ -33,15 +33,6 @@ export default function Navbar() {
               <a className="nav-link" href="#services">
                 Services
               </a>
-<<<<<<< HEAD
-=======
-              <a
-                className="nav-link active"
-                href="https://drive.google.com/file/d/13oSe2fPAXA8be9E_QuMnmtAC7UaL0dh1/view?usp=sharing"
-              >
-                Resume
-              </a>
->>>>>>> caddacdea84a8a0dda9e4b2c25699227b1263eae
               <a className="nav-link" href="#contact">
                 Contact
               </a>
