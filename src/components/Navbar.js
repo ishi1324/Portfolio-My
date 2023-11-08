@@ -6,7 +6,7 @@ export default function Navbar() {
       <nav className="navbar navbar-expand-md navbar-scrolled fixed-top bg-body-tertiary bg-dark navbar-dark">
         <div className="container">
           <a className="navbar-brand" href="#">
-            <h3>Aditi Sahu</h3>
+            <h3>Isha Gurnani</h3>
           </a>
           <button
             className="navbar-toggler"
