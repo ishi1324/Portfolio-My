@@ -15,13 +15,8 @@ export default function About() {
             <div className="col-md">
               <div className="service p-4 bg-base rounded-6 shadow-effect">
                 <p>
-<<<<<<< HEAD
                   I am a CSE Core Student.
                   I am Isha Gurnani 3rd year btech student of VIT, Bhopal. I am
-=======
-                 
-                  I am Srijan Kumar 3rd year btech student of VIT Bhopal and I am a CSE student. I am
->>>>>>> caddacdea84a8a0dda9e4b2c25699227b1263eae
                   a geek and curious human besides being an OpenSource
                   enthusiast. I did my Intermediate from Don Bosco Academy,
                   Patna, Bihar. I have managed many college events like Shark
